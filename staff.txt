@@ -1,8 +1,8 @@
-aFoley
-rDurand
-jMacclane
-jRouletabille
-jWest
-mRiggs
-sConor
-sHolmes
+Foley
+Durand
+Macclane
+Rouletabille
+West
+Riggs
+Conor
+Holmes
