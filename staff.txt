@@ -1,8 +1,8 @@
-Foley
-Durand
-Macclane
-Rouletabille
-West
-Riggs
-Conor
-Holmes
+foley
+durand
+macclane
+rouletabille
+west
+riggs
+conor
+holmes
